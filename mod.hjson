@@ -1,0 +1,7 @@
+{
+  name: ut
+  displayName: Utilities
+  description: Adds a few small but useful things for testing.
+  minGameVersion: 140
+  author: Fresh791
+}
